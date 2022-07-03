@@ -121,6 +121,7 @@ main a:hover{
 }
 main img{
     max-width: auto;
+    margin: auto;
 }
 main img.pequena {
     width: 50%;
